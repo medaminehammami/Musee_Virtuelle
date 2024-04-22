@@ -1,8 +1,9 @@
-# Virtual Exploration Museum of Dinosaurs
+# Musée d'exploration virtuelle des dinosaures
 
-Welcome to the Virtual Exploration Museum of Dinosaurs! This project offers a thrilling adventure through time, allowing visitors to interact with dinosaurs in their prehistoric habitat using cutting-edge virtual reality technology. From the Time Travel Machine that transports guests back millions of years to the era of dinosaurs to exhibits exploring the history and culture of these ancient creatures, the museum provides an unforgettable journey for all ages, making it an engaging and educational experience for everyone.
+Bienvenue au Musée d'exploration virtuelle des dinosaures ! Ce projet propose une aventure palpitante à travers le temps, permettant aux visiteurs d'interagir avec des dinosaures dans leur habitat préhistorique grâce à une technologie de pointe en matière de réalité virtuelle. De la machine à voyager dans le temps qui transporte les visiteurs des millions d'années en arrière, à l'époque des dinosaures, aux expositions qui explorent l'histoire et la culture de ces créatures anciennes, le musée offre un voyage inoubliable pour tous les âges, ce qui en fait une expérience attrayante et éducative pour tout le monde.
 
-## Project Structure
+## Structure du projet
+
 
 - **index.html**: Entry point for the VR experience.
 - **assets/**
@@ -13,14 +14,11 @@ Welcome to the Virtual Exploration Museum of Dinosaurs! This project offers a th
 - **css/**
   - **dinosaur.css**: Styles for the web experience.
 
-## Getting Started
+## Pour commencer
 
-To experience the Virtual Exploration Museum of Dinosaurs, simply open `index.html` in a compatible web browser or VR device. Ensure that you have the necessary assets and dependencies available to run the project smoothly.
+Pour découvrir le Musée d'exploration virtuelle des dinosaures, il suffit d'ouvrir `index.html` dans un navigateur web compatible ou un appareil VR. Assurez-vous que vous disposez des ressources et des dépendances nécessaires au bon déroulement du projet.
 
-## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request. Be sure to follow the project's coding conventions and guidelines.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code for personal or commercial purposes. See the `LICENSE` file for more details.
+
